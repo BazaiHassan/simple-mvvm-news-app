@@ -1,0 +1,6 @@
+<!-- card_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" />
+    <corners android:radius="8dp" />
+    <padding android:left="2dp" android:top="4dp" android:right="4dp" android:bottom="6dp" />
+</shape>
